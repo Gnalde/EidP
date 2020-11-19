@@ -11,7 +11,7 @@ def a_attacke2():
     print()
 
 def a_attacke3():
-    print()
+    print("Hello")
 
 def c_attacke1():
     print()
